@@ -1,0 +1,2 @@
+# hugoblog
+Testing out hugo
